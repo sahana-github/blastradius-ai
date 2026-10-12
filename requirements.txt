@@ -1,0 +1,4 @@
+networkx
+gitpython
+sqlglot
+pytest
